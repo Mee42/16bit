@@ -417,7 +417,19 @@
     ],
     [
       "5c6a83e0-086a-4ef0-b518-e95fefabe741",
-      "Register"
+      "Register1"
+    ],
+    [
+      "5f653f77-6259-4d83-90b7-4e98e2cf7420",
+      "Register2"
+    ],
+    [
+      "3e191386-6ba7-4340-9dfd-f209dab7689a",
+      "Register3"
+    ],
+    [
+      "332e1244-767e-4c68-9599-f5c951c6df84",
+      "Register4"
     ]
   ],
   "text_variables": {}
